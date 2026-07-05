@@ -32,16 +32,6 @@ Each section contains working code, tests, and notes as I work through the mater
 
 ---
 
-## Why Go
-
-After 3 years of professional frontend development with Angular, I'm deliberately transitioning into backend engineering.
-
-I chose Go for two simple reasons: the syntax feels clean and intentional — there is very little magic, no mandatory frameworks, and the code reads exactly as it runs. The second reason is productivity — I can go from idea to working software faster than in any other language I have tried.
-
-My goal is to secure a backend engineering role at an international company working on distributed systems or cloud-native infrastructure.
-
----
-
 ## Resources
 
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
